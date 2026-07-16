@@ -73,6 +73,22 @@ My research lies at the intersection of industrial organization, international t
 :::
 :::
 
+## Policy Publication
+
+::: {.paper-list}
+::: {.paper-item}
+<span class="status">European Economy Discussion Paper</span>
+
+### Are We More Accurate? Revisiting the European Commission’s Macroeconomic Forecasts
+
+<p class="authors">with Andras Chabin and Milan Výškrabka</p>
+
+<p class="abstract">This paper reassesses the accuracy of the European Commission’s macroeconomic forecasts and studies how forecast performance has evolved over time.</p>
+
+<div class="paper-links"><a href="https://economy-finance.ec.europa.eu/publications/are-we-more-accurate-revisiting-european-commissions-macroeconomic-forecasts_en">Official publication</a> <span>European Economy Discussion Paper 128 · 2020</span></div>
+:::
+:::
+
 ## Work in Progress
 
 ::: {.paper-list}

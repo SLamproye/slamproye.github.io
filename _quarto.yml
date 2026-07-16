@@ -28,6 +28,8 @@ website:
         href: https://www.kuleuven.be/wieiswie/en/person/u0147506
       - text: "LinkedIn"
         href: https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ
   open-graph: true
   twitter-card: true
   search: false

@@ -14,7 +14,7 @@ page-layout: full
 
 <p class="hero-intro">I study how firm market power shapes welfare, market structure, and aggregate economic outcomes.</p>
 
-<div class="field-list">Industrial Organization · International Trade · Macroeconomics</div>
+<div class="field-list">Industrial Organization · Trade · Macroeconomics</div>
 
 <div class="hero-actions">
   <a class="button-link primary" href="research.html">View research</a>

@@ -6,25 +6,50 @@ description: "Curriculum vitae of Sébastien Lamproye."
 ::: {.page-header-custom}
 # Curriculum Vitae
 
-The complete PDF curriculum vitae will be added as the 2026–27 job-market package is finalized.
+[Email](mailto:sebastien.lamproye@kuleuven.be) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/)
 :::
 
-## Current position
+## Current positions and affiliations
 
 **Doctoral Researcher in Economics**, KU Leuven · 2021–present  
 Fields: Industrial Organization, International Trade, Macroeconomics  
 Adviser: Johannes Van Biesebroeck  
 Expected completion: Summer 2027
 
+**External Researcher**, National Bank of Belgium · 2022–present
+
+## Education
+
+- PhD in Economics, KU Leuven · 2021–2027 (expected)
+- MSc in Statistics, Université libre de Bruxelles · 2020–2021
+- MRes in Economics (APE, doctoral track), Paris School of Economics · 2018–2020
+- BA in Economics, Solvay Brussels School of Economics and Management · 2015–2018
+- BSc in Business Engineering, Solvay Brussels School of Economics and Management · 2015–2018
+
 ## Fellowships and awards
 
 - PhD Fellowship in Fundamental Research, Research Foundation – Flanders (FWO) · 2023–2027
+
+## Policy publication
+
+- [“Are We More Accurate? Revisiting the European Commission’s Macroeconomic Forecasts”](https://economy-finance.ec.europa.eu/publications/are-we-more-accurate-revisiting-european-commissions-macroeconomic-forecasts_en), with Andras Chabin and Milan Výškrabka, *European Economy Discussion Paper* 128 · 2020
 
 ## Research experience
 
 - Research Assistant, ECARES–ULB · 2020–2021
 - Research Assistant, Collège de France · 2019
 - Economic and Statistical Analyst Trainee, European Commission, DG ECFIN · 2018
+
+## Selected presentations
+
+- Innovation Lab Seminars, Collège de France and INSEAD
+- Macroeconomics Seminar, Paris School of Economics
+- ECARES–ULB Seminar
+- Central European University, Budapest
+- Doctoral Workshop, UCLouvain, UNamur, and Université Saint-Louis Bruxelles
+- National Bank of Belgium
+- KU Leuven
+- Keio University
 
 ## Teaching
 
@@ -41,6 +66,10 @@ Expected completion: Summer 2027
 
 - Master’s Thesis Coordination, KU Leuven · 2024–2025  
   Coordinated the organization and scheduling of approximately 250 master’s thesis defenses.
+
+## Professional service
+
+- Referee for *Economics of Innovation and New Technology*
 
 ## Languages
 
