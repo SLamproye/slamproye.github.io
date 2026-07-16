@@ -11,19 +11,19 @@ My teaching experience spans microeconomics, macroeconomics, and global value ch
 
 ## Teaching experience
 
-::: {.info-grid}
-::: {.info-card}
-### Microeconomics
-
-Teaching Assistant  
-KU Leuven · 2021–2024
-:::
-
+::: {.info-grid .single}
 ::: {.info-card}
 ### Global Value Chains
 
 Teaching Assistant  
 KU Leuven · 2024–2025
+:::
+
+::: {.info-card}
+### Microeconomics
+
+Teaching Assistant  
+KU Leuven · 2021–2024
 :::
 
 ::: {.info-card}

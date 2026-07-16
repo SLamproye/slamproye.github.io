@@ -48,15 +48,6 @@ My research lies at the intersection of industrial organization, international t
 <p class="abstract">Which firms matter most for the welfare cost of market power in a production network? We map firm-level markups and firm-to-firm linkages into aggregate welfare losses and firm-level welfare effects, then implement the framework using Belgian administrative transaction data.</p>
 :::
 
-::: {.paper-item}
-<span class="status">Working paper</span>
-
-### When Comparison Makes Markets Tip
-
-<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
-
-<p class="abstract">Transparency is usually thought to make markets more competitive by helping consumers compare alternatives. We show that in two-sided markets greater comparability can strengthen feedback across market sides, destabilize coexistence, and induce tipping toward a dominant platform.</p>
-:::
 :::
 
 ## Under Review
@@ -93,32 +84,30 @@ My research lies at the intersection of industrial organization, international t
 
 ::: {.paper-list}
 ::: {.paper-item}
-<span class="status">Work in progress</span>
+
+### When Comparison Makes Markets Tip
+
+<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
+:::
+
+::: {.paper-item}
 
 ### Correction for Guessing as Information Revelation
 
 <p class="authors">with <a href="https://sites.google.com/site/michalkobielarz/">Michał Kobielarz</a> (KU Leuven) and <a href="https://sites.google.com/view/jovb/">Johannes Van Biesebroeck</a> (KU Leuven)</p>
-
-<p class="abstract">Draft in progress.</p>
 :::
 
 ::: {.paper-item}
-<span class="status">Work in progress</span>
 
 ### Contracts, Corruption, and Relocation: A Theory of Carbon Leakage
 
 <p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
-
-<p class="abstract">A theory of environmental regulation with delegated enforcement, corruption, and firm mobility. The project studies how institutional asymmetries can generate pollution-haven forces even when formal abatement rules are identical.</p>
 :::
 
 ::: {.paper-item}
-<span class="status">Work in progress</span>
 
 ### Patents, Diffusion, and the Gap Between Discovery and Use
 
 <p class="authors">with <a href="https://sites.google.com/view/tselmuunecon">Tselmuun Tserenkhuu</a> (Osaka University)</p>
-
-<p class="abstract">A project studying innovation, technological diffusion, and the gap between the discovery and use of new knowledge.</p>
 :::
 :::

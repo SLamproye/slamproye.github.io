@@ -17,10 +17,12 @@ homepage-*.png
 research-*.png
 about-*.png
 teaching-*.png
+cv-*.png
 
 # Only publish images deliberately selected for the website
 /pictures/*
 !/pictures/BK2025_harai_goshi.jpeg
+!/pictures/BK2025_harai_goshi_cropped.png
 !/pictures/BK2025_sukuinage.jpeg
 !/pictures/judogi_pict.jpeg
 !/pictures/judogi_pict_2.jpeg

@@ -6,9 +6,9 @@ description: "Curriculum vitae of Sébastien Lamproye."
 ::: {.page-header-custom}
 # Curriculum Vitae
 
-Department of Economics, KU Leuven<br>
+<div class="cv-contact"><strong>Department of Economics, KU Leuven</strong><br>
 Naamsestraat 69, 3000 Leuven, Belgium<br>
-[sebastien.lamproye@kuleuven.be](mailto:sebastien.lamproye@kuleuven.be) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/)
+<a href="mailto:sebastien.lamproye@kuleuven.be">sebastien.lamproye@kuleuven.be</a> · <a href="https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ">Google Scholar</a> · <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10931388">SSRN</a> · <a href="https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/">LinkedIn</a></div>
 :::
 
 ## Current positions and affiliations
@@ -42,7 +42,6 @@ Expected completion: Summer 2027
 
 - “Aggregating Markups in Production Networks,” with Emmanuel Dhyne
 - “Market Power and Firm-Level Welfare Impact in Production Networks,” with Emmanuel Dhyne
-- “When Comparison Makes Markets Tip,” with Duy-Anh Phan
 
 ### Under review
 
@@ -50,6 +49,7 @@ Expected completion: Summer 2027
 
 ### Work in progress
 
+- “When Comparison Makes Markets Tip,” with Duy-Anh Phan
 - “Correction for Guessing as Information Revelation,” with Michał Kobielarz and Johannes Van Biesebroeck
 - “Contracts, Corruption, and Relocation: A Theory of Carbon Leakage,” with Duy-Anh Phan
 - “Patents, Diffusion, and the Gap Between Discovery and Use,” with Tselmuun Tserenkhuu
@@ -77,8 +77,8 @@ Expected completion: Summer 2027
 
 ## Teaching
 
-- Teaching Assistant, Microeconomics, KU Leuven · 2021–2024
 - Teaching Assistant, Global Value Chains, KU Leuven · 2024–2025
+- Teaching Assistant, Microeconomics, KU Leuven · 2021–2024
 - Teaching Assistant, Introductory Macroeconomics, ULB · 2017–2018
 
 ## Thesis supervision and examination

@@ -32,6 +32,8 @@ website:
         href: https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ
+      - text: "SSRN"
+        href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10931388
   open-graph: true
   twitter-card: true
   search: false
