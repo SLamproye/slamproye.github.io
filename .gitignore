@@ -16,4 +16,9 @@ homepage-*.png
 research-*.png
 about-*.png
 
+# Only publish images deliberately selected for the website
+/pictures/*
+!/pictures/BK2025_harai_goshi.jpeg
+!/pictures/BK2025_sukuinage.jpeg
+
 **/*.quarto_ipynb
