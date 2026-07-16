@@ -24,7 +24,10 @@ page-layout: full
 :::
 
 ::: {.hero-visual}
-<img src="pictures/judogi_pict_2.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
+<picture class="hero-picture">
+  <source media="(max-width: 900px)" srcset="pictures/judogi_pict.jpeg">
+  <img src="pictures/judogi_pict_2.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
+</picture>
 :::
 :::
 
@@ -32,7 +35,7 @@ page-layout: full
 ::: {.section-heading}
 ## Research
 
-I am an FWO PhD Fellow and a member of the [Industrial Organization Group](https://sites.google.com/view/ioleuven/home) at KU Leuven, advised by [Professor Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+I am an FWO PhD Fellow and a member of the [Industrial Organization Group](https://sites.google.com/view/ioleuven/home) at KU Leuven, advised by [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
 :::
 
 ::: {.paper-feature}
@@ -132,7 +135,7 @@ Native speaker of French and Dutch; fluent in English, Spanish, and German.
 ::: {.judo-copy}
 ## Beyond economics
 
-I began practicing judo at age six and earned my black belt in 2013. In 2025, I became Belgian national champion in the −100 kg category, and I continue to compete alongside my academic work.
+I began practicing judo at age six and earned my black belt in 2013. In 2025, I became Belgian national champion in the −100 kg category, and I continue to compete and teach judo alongside my academic work.
 :::
 :::
 :::
