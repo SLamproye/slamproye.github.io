@@ -95,6 +95,16 @@ My research lies at the intersection of industrial organization, international t
 ::: {.paper-item}
 <span class="status">Work in progress</span>
 
+### Correction for Guessing as Information Revelation
+
+<p class="authors">with <a href="https://www.kuleuven.be/wieiswie/en/person/00122754">Michał Kobielarz</a> (KU Leuven) and <a href="https://sites.google.com/view/jovb/">Johannes Van Biesebroeck</a> (KU Leuven)</p>
+
+<p class="abstract">Draft in progress.</p>
+:::
+
+::: {.paper-item}
+<span class="status">Work in progress</span>
+
 ### Contracts, Corruption, and Relocation: A Theory of Carbon Leakage
 
 <p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>

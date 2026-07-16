@@ -23,5 +23,6 @@ teaching-*.png
 !/pictures/BK2025_harai_goshi.jpeg
 !/pictures/BK2025_sukuinage.jpeg
 !/pictures/judogi_pict.jpeg
+!/pictures/judogi_pict_2.jpeg
 
 **/*.quarto_ipynb

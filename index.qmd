@@ -24,7 +24,7 @@ page-layout: full
 :::
 
 ::: {.hero-visual}
-<img src="pictures/judogi_pict.jpeg" alt="Portrait of Sébastien Lamproye wearing a judogi">
+<img src="pictures/judogi_pict_2.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
 :::
 :::
 
@@ -32,7 +32,7 @@ page-layout: full
 ::: {.section-heading}
 ## Research
 
-I am an FWO PhD Fellow at KU Leuven, advised by [Professor Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+I am an FWO PhD Fellow and a member of the [Industrial Organization Group](https://sites.google.com/view/ioleuven/home) at KU Leuven, advised by [Professor Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
 :::
 
 ::: {.paper-feature}
@@ -108,7 +108,7 @@ With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon) (Osaka Un
 ::: {.section-heading}
 ## Profile
 
-I am currently supported by a competitive PhD Fellowship in Fundamental Research from the Research Foundation – Flanders (FWO). Beyond economics, judo and martial arts have been a defining part of my life since childhood.
+I am currently supported by a competitive PhD Fellowship in Fundamental Research from the Research Foundation – Flanders (FWO). Beyond economics, judo and martial arts in general have been a defining part of my life since childhood.
 :::
 
 ::: {.info-grid}
