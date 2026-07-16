@@ -16,14 +16,14 @@ My teaching experience spans microeconomics, macroeconomics, and global value ch
 ### Microeconomics
 
 Teaching Assistant  
-KU Leuven
+KU Leuven · 2021–2024
 :::
 
 ::: {.info-card}
 ### Global Value Chains
 
 Teaching Assistant  
-KU Leuven
+KU Leuven · 2024–2025
 :::
 :::
 
@@ -31,20 +31,18 @@ KU Leuven
 
 I have co-supervised ten master’s theses with Johannes Van Biesebroeck as principal supervisor. I have also served as an examiner and defense-committee member for additional master’s theses at KU Leuven.
 
+## Departmental service
+
+**Master’s Thesis Coordination**, KU Leuven · 2024–2025  
+Coordinated the organization and scheduling of approximately 250 master’s thesis defenses.
+
 ## Previous teaching
 
-::: {.info-grid}
+::: {.info-grid .single}
 ::: {.info-card}
 ### Introductory Macroeconomics
 
 Teaching Assistant  
-Solvay Brussels School of Economics and Management, ULB · 2018
-:::
-
-::: {.info-card}
-### Teaching materials
-
-Selected syllabi, evaluations, and teaching materials will be added as the job-market package is finalized.
+Solvay Brussels School of Economics and Management, ULB · 2017–2018
 :::
 :::
-

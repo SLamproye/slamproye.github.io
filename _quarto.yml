@@ -16,8 +16,6 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: about.qmd
-        text: About
       - href: cv.qmd
         text: CV
       - icon: envelope

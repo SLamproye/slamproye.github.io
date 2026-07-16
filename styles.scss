@@ -261,6 +261,7 @@ a { text-underline-offset: .18em; }
   border: 1px solid $line;
   margin: 2rem 0 4rem;
 }
+.info-grid.single { grid-template-columns: 1fr; }
 .info-card { background: $paper; padding: 2rem; }
 .info-card p:last-child { margin-bottom: 0; color: $muted; }
 

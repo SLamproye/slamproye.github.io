@@ -12,9 +12,11 @@ quarto-*-win.zip
 .DS_Store
 Thumbs.db
 *.tmp
+debug.log
 homepage-*.png
 research-*.png
 about-*.png
+teaching-*.png
 
 # Only publish images deliberately selected for the website
 /pictures/*

@@ -10,7 +10,7 @@ page-layout: full
 
 # Sébastien<br>Lamproye
 
-<div class="hero-role">Doctoral Researcher in Economics · KU Leuven</div>
+<div class="hero-role">FWO PhD Fellow in Economics · KU Leuven</div>
 
 <p class="hero-intro">I study how firm market power shapes welfare, market structure, and aggregate economic outcomes.</p>
 
@@ -33,7 +33,7 @@ page-layout: full
 ::: {.section-heading}
 ## Research
 
-I am a doctoral researcher at KU Leuven, advised by [Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+I am an FWO PhD Fellow at KU Leuven, advised by [Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
 :::
 
 ::: {.paper-feature}
@@ -74,7 +74,7 @@ My broader research studies how distortions propagate through firm networks, how
 
 ### Aggregating Markups in Production Networks
 
-With Emmanuel Dhyne. An economy-wide measure of market power that accounts for the position of firms in production networks.
+With [Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113). An economy-wide measure of market power that accounts for the position of firms in production networks.
 :::
 
 ::: {.research-card}
@@ -103,4 +103,29 @@ With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon). A projec
 :::
 
 <p style="margin-top:2rem">[See all research →](research.html){.link-arrow}</p>
+:::
+
+::: {.section-wrap .column-screen}
+::: {.section-heading}
+## Profile
+
+I am currently supported by a competitive PhD Fellowship in Fundamental Research from the Research Foundation – Flanders (FWO). Beyond economics, judo has been a defining part of my life since childhood.
+:::
+
+::: {.info-grid}
+::: {.info-card}
+### Fellowship
+
+FWO PhD Fellowship in Fundamental Research  
+Research Foundation – Flanders · 2023–2027
+:::
+
+::: {.info-card}
+### Languages
+
+Native speaker of French and Dutch; fluent in English, Spanish, and German.
+:::
+:::
+
+I began practicing judo at age six and earned my black belt in 2013. In 2025, I became Belgian national champion in the −100 kg category, and I continue to compete alongside my academic work.
 :::
