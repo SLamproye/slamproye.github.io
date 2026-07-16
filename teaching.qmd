@@ -9,7 +9,7 @@ description: "Teaching and supervision by Sébastien Lamproye."
 My teaching experience spans microeconomics, macroeconomics, and global value chains, alongside extensive master’s thesis supervision and examination.
 :::
 
-## KU Leuven
+## Teaching experience
 
 ::: {.info-grid}
 ::: {.info-card}
@@ -25,6 +25,13 @@ KU Leuven · 2021–2024
 Teaching Assistant  
 KU Leuven · 2024–2025
 :::
+
+::: {.info-card}
+### Introductory Macroeconomics
+
+Teaching Assistant<br>
+Solvay Brussels School of Economics and Management, ULB · 2017–2018
+:::
 :::
 
 ## Supervision and examination
@@ -35,14 +42,3 @@ I have co-supervised 10 master’s theses with Johannes Van Biesebroeck as princ
 
 **Master’s Thesis Coordination**, KU Leuven · 2024–2025  
 Coordinated the organization and scheduling of approximately 250 master’s thesis defenses.
-
-## Previous teaching
-
-::: {.info-grid .single}
-::: {.info-card}
-### Introductory Macroeconomics
-
-Teaching Assistant  
-Solvay Brussels School of Economics and Management, ULB · 2017–2018
-:::
-:::

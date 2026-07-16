@@ -6,14 +6,16 @@ description: "Curriculum vitae of Sébastien Lamproye."
 ::: {.page-header-custom}
 # Curriculum Vitae
 
-[Email](mailto:sebastien.lamproye@kuleuven.be) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/)
+Department of Economics, KU Leuven<br>
+Naamsestraat 69, 3000 Leuven, Belgium<br>
+[sebastien.lamproye@kuleuven.be](mailto:sebastien.lamproye@kuleuven.be) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/)
 :::
 
 ## Current positions and affiliations
 
 **Doctoral Researcher in Economics**, KU Leuven · 2021–present  
 Fields: Industrial Organization, International Trade, Macroeconomics  
-Adviser: Johannes Van Biesebroeck  
+Adviser: Prof. Johannes Van Biesebroeck<br>
 Expected completion: Summer 2027
 
 **External Researcher**, National Bank of Belgium · 2022–present
@@ -30,7 +32,29 @@ Expected completion: Summer 2027
 
 - PhD Fellowship in Fundamental Research, Research Foundation – Flanders (FWO) · 2023–2027
 
-## Policy publication
+## Research
+
+### Job market paper
+
+- “Market Power and Firm-Level Welfare Incidence”
+
+### Working papers
+
+- “Aggregating Markups in Production Networks,” with Emmanuel Dhyne
+- “Market Power and Firm-Level Welfare Impact in Production Networks,” with Emmanuel Dhyne
+- “When Comparison Makes Markets Tip,” with Duy-Anh Phan
+
+### Under review
+
+- “Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions”
+
+### Work in progress
+
+- “Correction for Guessing as Information Revelation,” with Michał Kobielarz and Johannes Van Biesebroeck
+- “Contracts, Corruption, and Relocation: A Theory of Carbon Leakage,” with Duy-Anh Phan
+- “Patents, Diffusion, and the Gap Between Discovery and Use,” with Tselmuun Tserenkhuu
+
+### Policy publication
 
 - [“Are We More Accurate? Revisiting the European Commission’s Macroeconomic Forecasts”](https://economy-finance.ec.europa.eu/publications/are-we-more-accurate-revisiting-european-commissions-macroeconomic-forecasts_en), with Andras Chabin and Milan Výškrabka, *European Economy Discussion Paper* 128 · 2020
 

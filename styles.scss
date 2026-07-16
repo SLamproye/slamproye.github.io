@@ -288,28 +288,16 @@ a { text-underline-offset: .18em; }
   margin: 0;
   overflow: hidden;
   min-width: 0;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1630 / 1152;
   align-self: center;
 }
-.judo-band > p::before,
-.judo-band > p::after {
-  content: "";
-  position: absolute;
-  z-index: 1;
-  top: 0;
-  bottom: 0;
-  width: 10.2%;
-  background: $navy;
-  pointer-events: none;
-}
-.judo-band > p::before { left: 0; }
-.judo-band > p::after { right: 0; }
 .judo-band img {
+  position: absolute;
+  top: 0;
+  left: -12.76%;
   display: block;
-  width: 100%;
+  width: 125.64%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
 }
 .judo-copy { padding: clamp(2rem, 5vw, 4rem); align-self: center; }
 .judo-copy h2 { color: white; }

@@ -35,7 +35,7 @@ page-layout: full
 ::: {.section-heading}
 ## Research
 
-I am an FWO PhD Fellow and a member of the [Industrial Organization Group](https://sites.google.com/view/ioleuven/home) at KU Leuven, advised by [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+I am an FWO PhD Fellow in Economics at KU Leuven, where I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
 :::
 
 ::: {.paper-feature}

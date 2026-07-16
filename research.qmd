@@ -97,7 +97,7 @@ My research lies at the intersection of industrial organization, international t
 
 ### Correction for Guessing as Information Revelation
 
-<p class="authors">with <a href="https://www.kuleuven.be/wieiswie/en/person/00122754">Michał Kobielarz</a> (KU Leuven) and <a href="https://sites.google.com/view/jovb/">Johannes Van Biesebroeck</a> (KU Leuven)</p>
+<p class="authors">with <a href="https://sites.google.com/site/michalkobielarz/">Michał Kobielarz</a> (KU Leuven) and <a href="https://sites.google.com/view/jovb/">Johannes Van Biesebroeck</a> (KU Leuven)</p>
 
 <p class="abstract">Draft in progress.</p>
 :::
