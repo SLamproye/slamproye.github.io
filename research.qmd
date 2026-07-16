@@ -53,7 +53,7 @@ My research lies at the intersection of industrial organization, international t
 
 ### When Comparison Makes Markets Tip
 
-<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a></p>
+<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
 
 <p class="abstract">Transparency is usually thought to make markets more competitive by helping consumers compare alternatives. We show that in two-sided markets greater comparability can strengthen feedback across market sides, destabilize coexistence, and induce tipping toward a dominant platform.</p>
 :::
@@ -81,7 +81,7 @@ My research lies at the intersection of industrial organization, international t
 
 ### Contracts, Corruption, and Relocation: A Theory of Carbon Leakage
 
-<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a></p>
+<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
 
 <p class="abstract">A theory of environmental regulation with delegated enforcement, corruption, and firm mobility. The project studies how institutional asymmetries can generate pollution-haven forces even when formal abatement rules are identical.</p>
 :::

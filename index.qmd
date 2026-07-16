@@ -24,8 +24,8 @@ page-layout: full
 :::
 
 ::: {.hero-visual}
-<img src="pictures/BK2025_harai_goshi.jpeg" alt="Sébastien Lamproye competing in the 2025 Belgian national judo championships">
-<div class="hero-caption">2025 Belgian national champion in judo · −100 kg</div>
+<img src="pictures/judogi_pict.jpeg" alt="Portrait of Sébastien Lamproye wearing a judogi">
+<div class="hero-caption">FWO PhD Fellow · 2025 Belgian national judo champion</div>
 :::
 :::
 
@@ -74,7 +74,7 @@ My broader research studies how distortions propagate through firm networks, how
 
 ### Aggregating Markups in Production Networks
 
-With [Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113). An economy-wide measure of market power that accounts for the position of firms in production networks.
+With [Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113) (National Bank of Belgium and University of Mons). An economy-wide measure of market power that accounts for the position of firms in production networks.
 :::
 
 ::: {.research-card}
@@ -82,7 +82,7 @@ With [Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113). An economy-w
 
 ### When Comparison Makes Markets Tip
 
-With [Duy-Anh Phan](https://sites.google.com/view/phan-dda/welcome). How comparability can intensify competition while making two-sided markets more likely to tip.
+With [Duy-Anh Phan](https://sites.google.com/view/phan-dda/welcome) (Monash University). How comparability can intensify competition while making two-sided markets more likely to tip.
 :::
 
 ::: {.research-card}
@@ -98,7 +98,7 @@ Evidence on the relationship between patent-based knowledge intensity and upward
 
 ### Patents, Diffusion, and the Gap Between Discovery and Use
 
-With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon). A project on innovation, diffusion, and the use of technological knowledge.
+With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon) (Osaka University). A project on innovation, diffusion, and the use of technological knowledge.
 :::
 :::
 
@@ -127,5 +127,13 @@ Native speaker of French and Dutch; fluent in English, Spanish, and German.
 :::
 :::
 
+::: {.judo-band}
+<img src="pictures/BK2025_harai_goshi.jpeg" alt="Sébastien Lamproye executing a harai-goshi at the 2025 Belgian national judo championships" loading="lazy">
+
+::: {.judo-copy}
+## Beyond economics
+
 I began practicing judo at age six and earned my black belt in 2013. In 2025, I became Belgian national champion in the −100 kg category, and I continue to compete alongside my academic work.
+:::
+:::
 :::
