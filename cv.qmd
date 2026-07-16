@@ -1,0 +1,36 @@
+---
+title: "Curriculum Vitae"
+description: "Curriculum vitae of Sébastien Lamproye."
+---
+
+::: {.page-header-custom}
+# Curriculum Vitae
+
+The complete PDF curriculum vitae will be added as the 2026–27 job-market package is finalized.
+:::
+
+## Current position
+
+**Doctoral Researcher in Economics**, KU Leuven · 2021–present  
+Fields: Industrial Organization, International Trade, Macroeconomics  
+Adviser: Johannes Van Biesebroeck  
+Expected completion: Summer 2027
+
+## Research experience
+
+- Research Assistant, ECARES–ULB · 2020–2021
+- Research Assistant, Collège de France · 2019
+- Economic and Statistical Analyst Trainee, European Commission, DG ECFIN · 2018
+
+## Teaching and supervision
+
+- Teaching Assistant, Microeconomics, KU Leuven
+- Teaching Assistant, Global Value Chains, KU Leuven
+- Co-supervisor of ten master’s theses, with Johannes Van Biesebroeck as principal supervisor
+- Examiner and defense-committee member for additional master’s theses
+- Teaching Assistant, Introductory Macroeconomics, ULB · 2018
+
+## Languages
+
+Native speaker of French and Dutch; fluent in English, Spanish, and German.
+

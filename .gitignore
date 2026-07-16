@@ -1,0 +1,19 @@
+# Quarto build products
+/_site/
+/.quarto/
+/.tools/
+quarto-*-win.zip
+
+# Private source material (never publish)
+/drafts/
+/linkedin_website.pdf
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+homepage-*.png
+research-*.png
+about-*.png
+
+**/*.quarto_ipynb

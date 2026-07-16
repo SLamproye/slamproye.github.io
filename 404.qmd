@@ -1,0 +1,14 @@
+---
+title: "Page not found"
+permalink: /404.html
+page-layout: full
+---
+
+::: {.section-wrap style="text-align:center;min-height:65vh;display:flex;flex-direction:column;justify-content:center;align-items:center"}
+# Page not found
+
+The page you requested does not exist or has moved.
+
+[Return home](index.html){.button-link .primary}
+:::
+

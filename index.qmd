@@ -1,0 +1,106 @@
+---
+title: "Sébastien Lamproye"
+description: "Doctoral researcher in Economics at KU Leuven, working in industrial organization, international trade, and macroeconomics."
+page-layout: full
+---
+
+::: {.hero .column-screen}
+::: {.hero-copy}
+<div class="eyebrow">2026–27 Economics Job Market</div>
+
+# Sébastien<br>Lamproye
+
+<div class="hero-role">Doctoral Researcher in Economics · KU Leuven</div>
+
+<p class="hero-intro">I study how firm market power shapes welfare, market structure, and aggregate economic outcomes.</p>
+
+<div class="field-list">Industrial Organization · International Trade · Macroeconomics</div>
+
+<div class="hero-actions">
+  <a class="button-link primary" href="research.html">View research</a>
+  <a class="button-link" href="cv.html">CV</a>
+  <a class="button-link" href="mailto:sebastien.lamproye@kuleuven.be">Email</a>
+</div>
+:::
+
+::: {.hero-visual}
+<img src="pictures/BK2025_harai_goshi.jpeg" alt="Sébastien Lamproye competing in the 2025 Belgian national judo championships">
+<div class="hero-caption">2025 Belgian national champion in judo · −100 kg</div>
+:::
+:::
+
+::: {.section-wrap .column-screen}
+::: {.section-heading}
+## Research
+
+I am a doctoral researcher at KU Leuven, advised by [Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+:::
+
+::: {.paper-feature}
+::: {}
+<div class="paper-kicker">Job Market Paper</div>
+
+### Market Power and Firm-Level Welfare Incidence
+
+Which firms account for the welfare cost of market power? I develop a firm-level welfare-incidence measure that combines markup wedges, firm size, demand curvature, and expenditure reallocation to identify where aggregate welfare losses originate.
+
+[Read about the paper →](research.html#job-market-paper){.link-arrow}
+:::
+
+::: {.paper-meta}
+**Fields**  
+Industrial organization  
+Macroeconomics
+
+**Setting**  
+Belgian firm-level data, 1980–2024
+
+**Status**  
+Draft in progress
+:::
+:::
+:::
+
+::: {.section-wrap .tint .column-screen}
+::: {.section-heading}
+## Selected work
+
+My broader research studies how distortions propagate through firm networks, how information affects platform competition, and how innovation diffuses across regions.
+:::
+
+::: {.research-grid}
+::: {.research-card}
+<span class="status">Working paper</span>
+
+### Aggregating Markups in Production Networks
+
+With Emmanuel Dhyne. An economy-wide measure of market power that accounts for the position of firms in production networks.
+:::
+
+::: {.research-card}
+<span class="status">Working paper</span>
+
+### When Comparison Makes Markets Tip
+
+With [Duy-Anh Phan](https://sites.google.com/view/phan-dda/welcome). How comparability can intensify competition while making two-sided markets more likely to tip.
+:::
+
+::: {.research-card}
+<span class="status">Under review</span>
+
+### Technological Knowledge Intensity and Intergenerational Mobility
+
+Evidence on the relationship between patent-based knowledge intensity and upward mobility across U.S. regions.
+:::
+
+::: {.research-card}
+<span class="status">Work in progress</span>
+
+### Patents, Diffusion, and the Gap Between Discovery and Use
+
+With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon). A project on innovation, diffusion, and the use of technological knowledge.
+:::
+:::
+
+<p style="margin-top:2rem">[See all research →](research.html){.link-arrow}</p>
+:::

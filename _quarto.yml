@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sébastien Lamproye"
+  description: "Economist at KU Leuven working in industrial organization, international trade, and macroeconomics."
+  site-url: "https://slamproye.github.io"
+  navbar:
+    pinned: true
+    title: "Sébastien Lamproye"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - icon: envelope
+        href: mailto:sebastien.lamproye@kuleuven.be
+        aria-label: Email Sébastien Lamproye
+  page-footer:
+    left: "© 2026 Sébastien Lamproye"
+    right:
+      - text: "KU Leuven"
+        href: https://www.kuleuven.be/wieiswie/en/person/u0147506
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/
+  open-graph: true
+  twitter-card: true
+  search: false
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    anchor-sections: false
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="theme-color" content="#13283f">
+
+execute:
+  freeze: auto
