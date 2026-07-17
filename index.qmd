@@ -35,7 +35,7 @@ page-layout: full
 ::: {.section-heading}
 ## Research
 
-I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) at KU Leuven under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+At KU Leuven, I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
 :::
 
 ::: {.paper-feature}
@@ -107,28 +107,7 @@ With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon) (Osaka Un
 <p style="margin-top:2rem">[See all research →](research.html){.link-arrow}</p>
 :::
 
-::: {.section-wrap .column-screen}
-::: {.section-heading}
-## Profile
-
-My experiences outside research have shaped the persistence, communication, and international outlook I bring to academic work.
-:::
-
-::: {.info-grid}
-::: {.info-card}
-### Fellowship
-
-FWO PhD Fellowship in Fundamental Research  
-Research Foundation – Flanders · 2023–2027
-:::
-
-::: {.info-card}
-### Five languages
-
-Native speaker of French and Dutch; fluent in English, Spanish, and German.
-:::
-:::
-
+::: {.section-wrap .personal-wrap .column-screen}
 ::: {.judo-band}
 <img src="pictures/BK2025_harai_goshi_cropped.png" alt="Sébastien Lamproye executing a harai-goshi at the 2025 Belgian national judo championships" loading="lazy">
 
