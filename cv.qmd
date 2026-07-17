@@ -68,8 +68,10 @@ Expected completion: Summer 2027
 
 ### Upcoming
 
-- Belgian Market Authorities
-- Osaka Metropolitan University
+<ul id="upcoming-presentations">
+  <li data-presentation-cutoff="2026-08-15">Osaka Metropolitan University · August 2026</li>
+  <li data-presentation-cutoff="2026-10-31">Belgian Market Authorities · October 2026</li>
+</ul>
 
 ### Selected past
 
@@ -109,3 +111,23 @@ Expected completion: Summer 2027
 ## Languages
 
 Native speaker of French and Dutch; fluent in English, Spanish, and German.
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const pastPresentations = document.querySelector("#selected-past ul");
+
+  document.querySelectorAll("#upcoming-presentations [data-presentation-cutoff]").forEach((presentation) => {
+    const cutoff = new Date(`${presentation.dataset.presentationCutoff}T23:59:59`);
+
+    if (new Date() > cutoff && pastPresentations) {
+      presentation.removeAttribute("data-presentation-cutoff");
+      pastPresentations.prepend(presentation);
+    }
+  });
+
+  const upcomingSection = document.querySelector("#upcoming");
+  if (upcomingSection && !upcomingSection.querySelector("li")) {
+    upcomingSection.remove();
+  }
+});
+</script>

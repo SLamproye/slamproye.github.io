@@ -78,7 +78,7 @@ a { text-underline-offset: .18em; }
   justify-self: center;
   height: clamp(720px, calc(100vh - 74px), 860px);
   display: grid;
-  grid-template-columns: minmax(0, 1.02fr) minmax(360px, .98fr);
+  grid-template-columns: minmax(0, 1.16fr) minmax(360px, .84fr);
   align-items: stretch;
   overflow: hidden;
   border-bottom: 1px solid $line;
