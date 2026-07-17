@@ -167,10 +167,8 @@ a { text-underline-offset: .18em; }
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 15% 42%;
+  object-position: 58% 38%;
   filter: saturate(.86) contrast(1.02);
-  transform: scale(2);
-  transform-origin: 46% 31%;
 }
 
 .hero-visual::after {
@@ -321,7 +319,6 @@ a { text-underline-offset: .18em; }
   .research-grid, .info-grid { grid-template-columns: 1fr; }
   .hero-visual img {
     object-position: 65% 38%;
-    transform: none;
   }
 }
 

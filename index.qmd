@@ -25,8 +25,7 @@ page-layout: full
 
 ::: {.hero-visual}
 <picture class="hero-picture">
-  <source media="(max-width: 900px)" srcset="pictures/judogi_pict.jpeg">
-  <img src="pictures/judogi_pict_2.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
+  <img src="pictures/judogi_pict.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
 </picture>
 :::
 :::
@@ -35,7 +34,7 @@ page-layout: full
 ::: {.section-heading}
 ## Research
 
-At KU Leuven, I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, and welfare. I expect to complete my PhD in summer 2027.
+At KU Leuven, I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). My work combines theory and firm-level data to study market power, production networks, misallocation, and firm performance. I expect to complete my PhD in summer 2027.
 
 My doctoral research is supported by a [PhD Fellowship in Fundamental Research](https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/) from the Research Foundation – Flanders (FWO).
 :::
