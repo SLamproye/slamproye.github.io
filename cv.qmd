@@ -69,8 +69,8 @@ Expected completion: Summer 2027
 ### Upcoming
 
 <ul id="upcoming-presentations">
-  <li data-presentation-cutoff="2026-08-15">Osaka Metropolitan University · August 2026</li>
-  <li data-presentation-cutoff="2026-10-31">Belgian Market Authorities · October 2026</li>
+  <li data-presentation-cutoff="2026-08-15">Osaka Metropolitan University</li>
+  <li data-presentation-cutoff="2026-10-31">Belgian Market Authorities</li>
 </ul>
 
 ### Selected past
