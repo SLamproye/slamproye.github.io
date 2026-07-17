@@ -73,10 +73,14 @@ h3 { font-size: 1.34rem; line-height: 1.28; }
 a { text-underline-offset: .18em; }
 
 .hero {
+  width: 100%;
+  max-width: 1680px;
+  justify-self: center;
   height: clamp(720px, calc(100vh - 74px), 860px);
   display: grid;
   grid-template-columns: minmax(0, 1.02fr) minmax(360px, .98fr);
   align-items: stretch;
+  overflow: hidden;
   border-bottom: 1px solid $line;
 }
 
@@ -86,7 +90,7 @@ a { text-underline-offset: .18em; }
   justify-content: center;
   min-width: 0;
   overflow-wrap: break-word;
-  padding: clamp(3rem, 7vw, 7.5rem) clamp(2rem, 6vw, 6.5rem) clamp(3rem, 7vw, 7rem) max(1rem, calc((100vw - 1120px) / 2));
+  padding: clamp(3rem, 7vw, 7.5rem) clamp(2rem, 6vw, 6.5rem) clamp(3rem, 7vw, 7rem) max(1rem, calc((min(100vw, 1680px) - 1120px) / 2));
 }
 
 .eyebrow {
@@ -147,7 +151,8 @@ a { text-underline-offset: .18em; }
 
 .hero-visual {
   position: relative;
-  min-height: 620px;
+  height: 100%;
+  min-height: 0;
   overflow: hidden;
   background: $navy;
 }
@@ -313,7 +318,7 @@ a { text-underline-offset: .18em; }
 @media (max-width: 900px) {
   .hero { grid-template-columns: 1fr; height: auto; }
   .hero-copy { width: auto; padding: 4.5rem 1.25rem 3.5rem; }
-  .hero-visual { min-height: 58vh; }
+  .hero-visual { height: auto; min-height: 58vh; }
   .section-heading, .paper-feature, .judo-band { grid-template-columns: 1fr; }
   .paper-meta { border-left: 0; border-top: 1px solid rgba(255,255,255,.25); padding: 1.5rem 0 0; }
   .research-grid, .info-grid { grid-template-columns: 1fr; }
