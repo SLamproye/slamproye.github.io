@@ -7,7 +7,7 @@ project:
 website:
   title: "Sébastien Lamproye"
   description: "Economist at KU Leuven working in industrial organization, international trade, and macroeconomics."
-  site-url: "https://slamproye.github.io"
+  site-url: "https://lamproye.com"
   navbar:
     pinned: true
     title: "Sébastien Lamproye"
