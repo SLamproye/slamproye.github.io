@@ -34,6 +34,8 @@ website:
         href: https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ
       - text: "SSRN"
         href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10931388
+      - text: "RePEc"
+        href: https://authors.repec.org/pro/pla1190/
   open-graph: true
   twitter-card: true
   search: false
