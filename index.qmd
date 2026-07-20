@@ -25,7 +25,7 @@ page-layout: full
 
 ::: {.hero-visual}
 <picture class="hero-picture">
-  <source media="(max-width: 560px)" srcset="pictures/judogi_pict.jpeg">
+  <source media="(max-width: 900px)" srcset="pictures/judogi_pict.jpeg">
   <img src="pictures/judogi_pict_2.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
 </picture>
 :::
