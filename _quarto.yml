@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: _site
   resources:
+    - pictures/judogi_pict.jpeg
     - pictures/judogi_pict_2.jpeg
 
 website:
