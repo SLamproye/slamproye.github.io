@@ -48,10 +48,11 @@ Expected completion: Summer 2027
 
 - “Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions” — revise and resubmit at *Economics of Innovation and New Technology*
 - “When Comparison Makes Markets Tip,” with Duy-Anh Phan — submitted
-- “Correction for Guessing as Information Revelation,” with Michał Kobielarz and Johannes Van Biesebroeck — submitted
+- “Opening Commitments as Instruments for Revised Production Inputs” — submitted
 
 ### Work in progress
 
+- “Correction for Guessing as Information Revelation,” with Michał Kobielarz and Johannes Van Biesebroeck
 - “Contracts, Corruption, and Relocation: A Theory of Carbon Leakage,” with Duy-Anh Phan
 - “Patents, Diffusion, and the Gap Between Discovery and Use,” with Tselmuun Tserenkhuu
 

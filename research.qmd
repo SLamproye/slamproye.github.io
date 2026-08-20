@@ -74,9 +74,7 @@ My research lies at the intersection of industrial organization, international t
 ::: {.paper-item}
 <span class="status">Submitted</span>
 
-### Correction for Guessing as Information Revelation
-
-<p class="authors">with <a href="https://sites.google.com/site/michalkobielarz/">Michał Kobielarz</a> (KU Leuven) and <a href="https://sites.google.com/view/jovb/">Johannes Van Biesebroeck</a> (KU Leuven)</p>
+### Opening Commitments as Instruments for Revised Production Inputs
 :::
 :::
 
@@ -99,6 +97,13 @@ My research lies at the intersection of industrial organization, international t
 ## Work in Progress
 
 ::: {.paper-list}
+::: {.paper-item}
+
+### Correction for Guessing as Information Revelation
+
+<p class="authors">with <a href="https://sites.google.com/site/michalkobielarz/">Michał Kobielarz</a> (KU Leuven) and <a href="https://sites.google.com/view/jovb/">Johannes Van Biesebroeck</a> (KU Leuven)</p>
+:::
+
 ::: {.paper-item}
 
 ### Contracts, Corruption, and Relocation: A Theory of Carbon Leakage
