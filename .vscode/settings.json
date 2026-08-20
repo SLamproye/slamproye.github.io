@@ -1,0 +1,6 @@
+{
+  "workbench.editorAssociations": {
+    "*.pdf": "pdf.preview"
+  },
+  "pdf-preview.default.scale": "page-fit"
+}
