@@ -36,7 +36,7 @@ page-layout: full
 ## Research
 
 ::: {.section-copy}
-At the [Department of Economics at KU Leuven](https://feb.kuleuven.be/research/economics), I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). I expect to complete my PhD in summer 2027.
+At the [Department of Economics at KU Leuven](https://feb.kuleuven.be/research/economics), I conduct my research in the [IO Group](https://sites.google.com/view/ioleuven/home) under the supervision of [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/). I plan to complete my PhD in summer 2027.
 
 My work combines theory and firm-level data to study market power, firm performance, production networks, and misallocation.
 
@@ -86,7 +86,7 @@ With [Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113) (National Ban
 :::
 
 ::: {.research-card}
-<span class="status">Work in progress</span>
+<span class="status">Submitted</span>
 
 ### When Comparison Makes Markets Tip
 
@@ -94,7 +94,7 @@ With [Duy-Anh Phan](https://sites.google.com/view/phan-dda/welcome) (Monash Univ
 :::
 
 ::: {.research-card}
-<span class="status">Under review</span>
+<span class="status">Revise and resubmit</span>
 
 ### Technological Knowledge Intensity and Intergenerational Mobility
 
