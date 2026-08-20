@@ -106,12 +106,6 @@ Expected completion: Summer 2027
 
 - Referee for *Economics of Innovation and New Technology*
 
-## References
-
-- [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/), KU Leuven
-- [Prof. Jan De Loecker](https://sites.google.com/site/deloeckerjan/), KU Leuven
-- [Prof. Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113), National Bank of Belgium and University of Mons
-
 ## Additional experience
 
 - Seasonal Fundraiser, Arbeiter-Samariter-Bund Deutschland and Malteser Hilfsdienst, Germany · Summers 2016–2019
@@ -119,6 +113,12 @@ Expected completion: Summer 2027
 ## Languages
 
 Native speaker of French and Dutch; fluent in English, Spanish, and German.
+
+## References
+
+- [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/), KU Leuven · [jo.vanbiesebroeck@kuleuven.be](mailto:jo.vanbiesebroeck@kuleuven.be)
+- [Prof. Jan De Loecker](https://sites.google.com/site/deloeckerjan/), KU Leuven · [jan.deloecker@kuleuven.be](mailto:jan.deloecker@kuleuven.be)
+- [Prof. Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113), National Bank of Belgium and University of Mons · [emmanuel.dhyne@nbb.be](mailto:emmanuel.dhyne@nbb.be)
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
