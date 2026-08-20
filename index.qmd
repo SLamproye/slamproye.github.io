@@ -10,7 +10,7 @@ page-layout: full
 
 # Sébastien<br>Lamproye
 
-<div class="hero-role">FWO PhD Fellow in Economics · KU Leuven</div>
+<div class="hero-role">PhD Fellow in Economics · KU Leuven</div>
 
 <p class="hero-intro">I study how firm market power shapes welfare, market structure, and aggregate economic outcomes.</p>
 
@@ -40,7 +40,7 @@ At the [Department of Economics at KU Leuven](https://feb.kuleuven.be/research/e
 
 My work combines theory and firm-level data to study market power, firm performance, production networks, and misallocation.
 
-My doctoral research is supported by a [PhD Fellowship in Fundamental Research](https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/) from the Research Foundation – Flanders (FWO).
+My doctoral research is supported by a competitive [PhD Fellowship in Fundamental Research](https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/) from the Research Foundation – Flanders (FWO).
 :::
 :::
 
