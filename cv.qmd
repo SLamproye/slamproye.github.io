@@ -23,7 +23,7 @@ Expected completion: Summer 2027
 ## Education
 
 - PhD in Economics, KU Leuven · 2021–2027 (expected)
-- MSc in Statistics, Université libre de Bruxelles · 2020–2021
+- MSc in Statistics, Department of Mathematics, Université libre de Bruxelles · 2020–2021
 - MRes in Economics (APE, doctoral track), Paris School of Economics · 2018–2020
 - BA in Economics, Solvay Brussels School of Economics and Management · 2015–2018
 - BSc in Business Engineering, Solvay Brussels School of Economics and Management · 2015–2018
@@ -31,6 +31,7 @@ Expected completion: Summer 2027
 ## Fellowships and awards
 
 - PhD Fellowship in Fundamental Research, Research Foundation – Flanders (FWO) · 2023–2027
+- KU Leuven Scholarship · 2021–2023
 
 ## Research
 
@@ -45,11 +46,12 @@ Expected completion: Summer 2027
 
 ### Under review
 
-- “Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions”
+- “Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions” — revise and resubmit at *Economics of Innovation and New Technology*
+- “When Comparison Makes Markets Tip,” with Duy-Anh Phan — submitted
+- “Opening Commitments as Instruments for Revised Production Inputs” — submitted
 
 ### Work in progress
 
-- “When Comparison Makes Markets Tip,” with Duy-Anh Phan
 - “Correction for Guessing as Information Revelation,” with Michał Kobielarz and Johannes Van Biesebroeck
 - “Contracts, Corruption, and Relocation: A Theory of Carbon Leakage,” with Duy-Anh Phan
 - “Patents, Diffusion, and the Gap Between Discovery and Use,” with Tselmuun Tserenkhuu
@@ -104,9 +106,15 @@ Expected completion: Summer 2027
 
 - Referee for *Economics of Innovation and New Technology*
 
+## References
+
+- [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/), KU Leuven
+- [Prof. Jan De Loecker](https://sites.google.com/site/deloeckerjan/), KU Leuven
+- [Prof. Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113), National Bank of Belgium and University of Mons
+
 ## Additional experience
 
-- Fundraiser, Arbeiter-Samariter-Bund Deutschland and Malteser Hilfsdienst, Germany · Summers 2016–2019
+- Seasonal Fundraiser, Arbeiter-Samariter-Bund Deutschland and Malteser Hilfsdienst, Germany · Summers 2016–2019
 
 ## Languages
 

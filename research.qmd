@@ -54,13 +54,27 @@ My research lies at the intersection of industrial organization, international t
 
 ::: {.paper-list}
 ::: {.paper-item}
-<span class="status">Under review</span>
+<span class="status">Revise and resubmit at <em>Economics of Innovation and New Technology</em></span>
 
 ### Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions
 
 <p class="authors">Sébastien Lamproye</p>
 
 <p class="abstract">This paper studies the regional relationship between technological knowledge intensity and intergenerational upward mobility in the United States. Combining mobility measures from the Opportunity Atlas with U.S. patent records, I document that regions with greater patent-based knowledge intensity exhibit higher upward mobility.</p>
+:::
+
+::: {.paper-item}
+<span class="status">Submitted</span>
+
+### When Comparison Makes Markets Tip
+
+<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
+:::
+
+::: {.paper-item}
+<span class="status">Submitted</span>
+
+### Opening Commitments as Instruments for Revised Production Inputs
 :::
 :::
 
@@ -83,13 +97,6 @@ My research lies at the intersection of industrial organization, international t
 ## Work in Progress
 
 ::: {.paper-list}
-::: {.paper-item}
-
-### When Comparison Makes Markets Tip
-
-<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
-:::
-
 ::: {.paper-item}
 
 ### Correction for Guessing as Information Revelation
