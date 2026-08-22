@@ -26,9 +26,7 @@ Expected completion: Summer 2027
 - MSc in Statistics, Department of Mathematics, Université libre de Bruxelles · 2020–2021
 - MRes in Economics (APE, doctoral track), Paris School of Economics · 2018–2020
 - BA in Economics, Solvay Brussels School of Economics and Management · 2015–2018
-- BSc in Business Engineering, Solvay Brussels School of Economics and Management · 2015–2018
-
-*The two undergraduate degrees were completed concurrently.*
+- BSc in Business Engineering, Solvay Brussels School of Economics and Management · 2015–2018 *(completed concurrently with the BA in Economics)*
 
 ## Fellowships and awards
 
@@ -50,7 +48,7 @@ Expected completion: Summer 2027
 
 - “Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions” — revise and resubmit at *Economics of Innovation and New Technology*
 - “When Comparison Makes Markets Tip,” with Duy-Anh Phan — submitted
-- “Opening Commitments as Instruments for Revised Production Inputs” — submitted
+- “When an Input Is Chosen Twice: Opening Commitments and Production-Function Identification” — submitted
 
 ### Work in progress
 

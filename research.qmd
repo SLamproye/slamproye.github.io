@@ -74,7 +74,7 @@ My research lies at the intersection of industrial organization, international t
 ::: {.paper-item}
 <span class="status">Submitted</span>
 
-### Opening Commitments as Instruments for Revised Production Inputs
+### When an Input Is Chosen Twice: Opening Commitments and Production-Function Identification
 :::
 :::
 
