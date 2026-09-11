@@ -66,16 +66,23 @@ My research lies at the intersection of industrial organization, international t
 ::: {.paper-item}
 <span class="status">Submitted</span>
 
-### When Comparison Makes Markets Tip
+### Equal Static Gains, Unequal Growth: Trade and the Allocation of R&D
 
-<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
+<p class="authors">Sébastien Lamproye</p>
+
+<p class="abstract">Can trade reforms that deliver the same current real-income gain have opposite effects on long-run growth? This paper studies firms’ R&D choices when sectors compete for a fixed national supply of research labor. It derives an equal-static-gain growth frontier and quantifies the mechanism in a multi-country, multi-sector model with input–output linkages.</p>
 :::
 
 ::: {.paper-item}
 <span class="status">Submitted</span>
 
-### When an Input Is Chosen Twice: Opening Commitments and Production-Function Identification
+### When Comparison Makes Markets Tip
+
+<p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
+
+<p class="abstract">Policies that make platforms easier to compare are expected to lower prices. This paper shows that, in two-sided markets, greater comparability can also strengthen participation feedback and destabilize coexistence. It distinguishes comparison policies from interventions that weaken network feedback, such as interoperability and multi-homing support.</p>
 :::
+
 :::
 
 ## Policy Publication

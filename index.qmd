@@ -73,7 +73,7 @@ Draft in progress
 ::: {.section-heading}
 ## Selected work
 
-My broader research studies how distortions propagate through firm networks, how information affects platform competition, and how innovation diffuses across regions.
+My broader research studies how market power propagates through production networks, how trade reallocates research effort, how information affects platform competition, and how innovation shapes economic opportunity.
 :::
 
 ::: {.research-grid}
@@ -102,11 +102,11 @@ Evidence on the relationship between patent-based knowledge intensity and upward
 :::
 
 ::: {.research-card}
-<span class="status">Work in progress</span>
+<span class="status">Submitted</span>
 
-### Patents, Diffusion, and the Gap Between Discovery and Use
+### Equal Static Gains, Unequal Growth: Trade and the Allocation of R&D
 
-With [Tselmuun Tserenkhuu](https://sites.google.com/view/tselmuunecon) (Osaka University). A project on innovation, diffusion, and the use of technological knowledge.
+How trade reforms with identical current real-income gains can have opposite effects on long-run growth by reallocating scarce research labor across sectors.
 :::
 :::
 
