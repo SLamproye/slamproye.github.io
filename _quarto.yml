@@ -1,9 +1,21 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - /index.qmd
+    - /research.qmd
+    - /teaching.qmd
+    - /cv.qmd
+    - /404.qmd
   resources:
-    - pictures/judogi_pict.jpeg
-    - pictures/judogi_pict_2.jpeg
+    - /pictures/portrait_hero.png
+    - /pictures/BK2025_sukuinage.jpeg
+    - /pictures/judo_original_hero_crop.png
+    - "!/pictures/judogi_pict*.jpeg"
+    - "!/JM_appl_26-27/**"
+    - "!/drafts/**"
+    - "!/_site/**"
+    - "!/.tools/**"
 
 website:
   title: "Sébastien Lamproye"

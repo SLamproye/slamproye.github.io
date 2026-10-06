@@ -85,6 +85,7 @@ Expected completion: Summer 2027
 - National Bank of Belgium
 - KU Leuven
 - Keio University
+- University of Tokyo
 
 ## Teaching
 

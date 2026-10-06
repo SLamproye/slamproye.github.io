@@ -172,16 +172,11 @@ a { text-underline-offset: .18em; }
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 0% 42%;
-  filter: saturate(.86) contrast(1.02);
+  object-position: 50% 0%;
 }
 
 .hero-visual::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, transparent 56%, rgba(8, 20, 34, .78));
-  pointer-events: none;
+  content: none;
 }
 
 .hero-caption {
@@ -280,26 +275,38 @@ a { text-underline-offset: .18em; }
 .info-card p:last-child { margin-bottom: 0; color: $muted; }
 
 .judo-band {
-  display: grid;
-  grid-template-columns: 1.25fr .75fr;
   background: $navy;
   color: white;
   margin: 4rem 0;
 }
 .personal-wrap .judo-band { margin-top: 0; }
-.judo-band > p {
-  margin: 0;
-  min-width: 0;
-  align-self: center;
+.judo-gallery {
+  display: grid;
+  grid-template-columns: minmax(0, 9fr) minmax(0, 4fr);
+  gap: 1rem;
+  padding: 0 1rem 1rem;
 }
-.judo-band img {
+.judo-gallery img {
   display: block;
   width: 100%;
+  aspect-ratio: 3 / 2;
   height: auto;
+  object-fit: cover;
+  object-position: center;
 }
-.judo-copy { padding: clamp(2rem, 5vw, 4rem); align-self: center; }
-.judo-copy h2 { color: white; }
-.judo-copy p { color: rgba(255,255,255,.78); }
+.judo-gallery .judo-portrait {
+  aspect-ratio: 2 / 3;
+  object-fit: contain;
+}
+.judo-copy {
+  display: grid;
+  grid-template-columns: minmax(max-content, .9fr) minmax(0, 1.1fr);
+  gap: 2rem;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  align-items: start;
+}
+.judo-copy h2 { color: white; margin: 0; }
+.judo-copy p { color: rgba(255,255,255,.78); margin: 0; }
 
 .contact-card {
   padding: 2.5rem 0 0;
@@ -318,12 +325,12 @@ a { text-underline-offset: .18em; }
 @media (max-width: 900px) {
   .hero { grid-template-columns: 1fr; height: auto; }
   .hero-copy { width: auto; padding: 4.5rem 1.25rem 3.5rem; }
-  .hero-visual { height: auto; min-height: 58vh; }
-  .section-heading, .paper-feature, .judo-band { grid-template-columns: 1fr; }
+  .hero-visual { width: 100%; max-width: 560px; height: auto; aspect-ratio: 560 / 650; min-height: 0; justify-self: center; }
+  .section-heading, .paper-feature, .judo-copy { grid-template-columns: 1fr; }
   .paper-meta { border-left: 0; border-top: 1px solid rgba(255,255,255,.25); padding: 1.5rem 0 0; }
   .research-grid, .info-grid { grid-template-columns: 1fr; }
   .hero-visual img {
-    object-position: 0% 42%;
+    object-position: 50% 0%;
   }
 }
 
@@ -341,11 +348,13 @@ a { text-underline-offset: .18em; }
   }
 
   body { font-size: 1rem; }
-  .hero-visual { min-height: 430px; }
   .section-wrap { padding-left: 1rem; padding-right: 1rem; }
   .section-heading { gap: 1rem; }
   .paper-feature, .research-card, .info-card { padding: 1.35rem; }
   .judo-band { margin-left: -0.75rem; margin-right: -0.75rem; }
+  .judo-gallery { grid-template-columns: 1fr; }
+  .judo-gallery .judo-portrait { max-width: 280px; justify-self: center; }
+  .judo-copy { gap: 1rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
