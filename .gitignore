@@ -5,8 +5,32 @@
 quarto-*-win.zip
 
 # Private source material (never publish)
+/JM_appl_26-27/
 /drafts/
 /linkedin_website.pdf
+/job_market_cv/
+/PIIRS/
+/Michigan_Society_of_Fellows/
+/Harvard_Academy/
+/Harvard_Weatherhead_Scholars/
+/Oxford_Nuffield/
+/Oxford_Magdalen/
+/Oxford_St_Johns/
+/NUS_Presidential_Fellowship/
+/NUS_Global_Asia_Institute/
+/IDE_JETRO/
+/NTNU_Business_School/
+/MIT_CIS/
+/cambridge_emmanuel/
+/Cambridge_Queens/
+/Cambridge_Caius/
+/Cambridge_Sidney_Sussex/
+/Cambridge_St_Catharines/
+/Tokyo_College/
+/Berkeley_CAMSE/
+/Santa_Fe/
+/ETH_Applied_Macroeconomics_Political_Economy/
+/Enrollment_transcripts/
 
 # Local/editor files
 .DS_Store
@@ -26,5 +50,7 @@ cv-*.png
 !/pictures/BK2025_sukuinage.jpeg
 !/pictures/judogi_pict.jpeg
 !/pictures/judogi_pict_2.jpeg
+!/pictures/portrait_hero.png
+!/pictures/judo_original_hero_crop.png
 
 **/*.quarto_ipynb

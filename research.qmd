@@ -81,6 +81,8 @@ My research lies at the intersection of industrial organization, international t
 <p class="authors">with <a href="https://sites.google.com/view/phan-dda/welcome">Duy-Anh Phan</a> (Monash University)</p>
 
 <p class="abstract">Policies that make platforms easier to compare are expected to lower prices. This paper shows that, in two-sided markets, greater comparability can also strengthen participation feedback and destabilize coexistence. It distinguishes comparison policies from interventions that weaken network feedback, such as interoperability and multi-homing support.</p>
+
+<div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6489378">Read on SSRN</a></div>
 :::
 
 :::

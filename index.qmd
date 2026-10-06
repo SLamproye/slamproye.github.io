@@ -25,8 +25,7 @@ page-layout: full
 
 ::: {.hero-visual}
 <picture class="hero-picture">
-  <source media="(max-width: 900px)" srcset="pictures/judogi_pict.jpeg">
-  <img src="pictures/judogi_pict_2.jpeg" alt="Sébastien Lamproye standing with a fellow judoka">
+  <img src="pictures/portrait_hero.png" alt="Portrait of Sébastien Lamproye" width="560" height="650" fetchpriority="high">
 </picture>
 :::
 :::
@@ -115,13 +114,19 @@ How trade reforms with identical current real-income gains can have opposite eff
 
 ::: {.section-wrap .personal-wrap .column-screen}
 ::: {.judo-band}
-<img src="pictures/BK2025_harai_goshi_cropped.png" alt="Sébastien Lamproye executing a harai-goshi at the 2025 Belgian national judo championships" loading="lazy">
-
 ::: {.judo-copy}
 ## Beyond economics
 
 I began practicing judo at age six and earned my black belt a decade later. In 2025, I became Belgian national champion in the −100 kg category, and I continue to compete and teach judo alongside my academic work.
 :::
+
+```{=html}
+<div class="judo-gallery">
+  <img src="pictures/BK2025_sukuinage.jpeg" alt="Sébastien Lamproye executing a sukui-nage at the 2025 Belgian national judo championships" loading="lazy" decoding="async">
+  <!-- Permanent original-hero framing: small blue shoulder edge, no partner's face. Do not substitute the full two-person original or the tighter solo crop. -->
+  <img class="judo-portrait" src="pictures/judo_original_hero_crop.png" alt="Sébastien Lamproye wearing his white judogi and black belt" width="1024" height="1536" loading="lazy" decoding="async">
+</div>
+```
 :::
 
 ::: {.contact-card}
