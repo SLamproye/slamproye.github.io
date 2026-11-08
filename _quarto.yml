@@ -8,6 +8,7 @@ project:
     - /cv.qmd
     - /404.qmd
   resources:
+    - /papers/Lamproye_JMP.pdf
     - /pictures/portrait_hero.png
     - /pictures/BK2025_sukuinage.jpeg
     - /pictures/judo_original_hero_crop.png
@@ -16,6 +17,8 @@ project:
     - "!/drafts/**"
     - "!/_site/**"
     - "!/.tools/**"
+    - "!/output/**"
+    - "!/tmp/**"
 
 website:
   title: "Sébastien Lamproye"

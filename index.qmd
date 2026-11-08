@@ -49,9 +49,11 @@ My doctoral research is supported by a competitive [PhD Fellowship in Fundamenta
 
 ### Market Power and Firm-Level Welfare Incidence
 
-Which firms account for the welfare cost of market power? I develop a firm-level welfare-incidence measure that combines markup wedges, firm size, demand curvature, and expenditure reallocation to identify where aggregate welfare losses originate.
+Which firms’ markup changes matter most for aggregate welfare costs? I develop firm-level welfare-incidence measures in a parsimonious model with limited data requirements. Applied to Belgian company accounts, the measures identify influential firms that conventional rankings by sales, markups or profitability can miss.
 
 [Read about the paper →](research.html#job-market-paper){.link-arrow}
+
+[Read paper (PDF)](papers/Lamproye_JMP.pdf){.link-arrow}
 :::
 
 ::: {.paper-meta}
@@ -60,10 +62,10 @@ Industrial organization
 Macroeconomics
 
 **Setting**  
-Belgian firm-level data, 1980–2024
+Belgian firm-level data, 1985–2024
 
 **Status**  
-Draft in progress
+Available · Updated 4 November 2026
 :::
 :::
 :::
