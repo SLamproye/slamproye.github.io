@@ -6,6 +6,8 @@ description: "Curriculum vitae of Sébastien Lamproye."
 ::: {.page-header-custom}
 # Curriculum Vitae
 
+You can [download my full CV as a PDF](files/Lamproye_CV.pdf). Updated 9 November 2026.
+
 <div class="cv-contact"><strong>Department of Economics, KU Leuven</strong><br>
 Naamsestraat 69, 3000 Leuven, Belgium<br>
 <a href="mailto:sebastien.lamproye@kuleuven.be">sebastien.lamproye@kuleuven.be</a> · <a href="https://scholar.google.com/citations?hl=en&user=g2Any6UAAAAJ">Google Scholar</a> · <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10931388">SSRN</a> · <a href="https://authors.repec.org/pro/pla1190/">RePEc</a> · <a href="https://www.linkedin.com/in/s%C3%A9bastien-lamproye-68b996159/">LinkedIn</a></div>
@@ -14,19 +16,22 @@ Naamsestraat 69, 3000 Leuven, Belgium<br>
 ## Current positions and affiliations
 
 **Doctoral Researcher in Economics**, KU Leuven · 2021–present  
-Fields: Industrial Organization, International Trade, Macroeconomics  
+Fields: Industrial Organization, Macroeconomics, International Trade<br>
+Research focus: Market power, production networks, innovation and aggregate welfare<br>
+Approach: Firm-level empirical analysis and economic modelling<br>
 Adviser: Prof. Johannes Van Biesebroeck<br>
-Expected completion: Summer 2027
+Dissertation: *Market Power in Value Chains*<br>
+Expected completion: Spring 2027
 
 **External Researcher**, National Bank of Belgium · 2022–present
 
 ## Education
 
 - PhD in Economics, KU Leuven · 2021–2027 (expected)
-- MSc in Statistics, Department of Mathematics, Université libre de Bruxelles · 2020–2021
-- MRes in Economics (APE, doctoral track), Paris School of Economics · 2018–2020
-- BA in Economics, Solvay Brussels School of Economics and Management · 2015–2018
-- BSc in Business Engineering, Solvay Brussels School of Economics and Management · 2015–2018 *(completed concurrently with the BA in Economics)*
+- MSc in Statistics, Department of Mathematics, Université libre de Bruxelles · 2020–2021 · *cum laude*
+- MRes in Economics (APE, doctoral track), Paris School of Economics · 2018–2020 · *magna cum laude*
+- BA in Economics, Solvay Brussels School of Economics and Management, Université libre de Bruxelles · 2015–2018 · *magna cum laude*, ranked first out of 137 students
+- BSc in Business Engineering, Solvay Brussels School of Economics and Management, Université libre de Bruxelles · 2015–2018 · *cum laude* *(completed concurrently with the BA in Economics)*
 
 ## Fellowships and awards
 
@@ -37,16 +42,19 @@ Expected completion: Summer 2027
 
 ### Job market paper
 
-- “Market Power and Firm-Level Welfare Incidence”
+- [“Market Power and Firm-Level Welfare Incidence”](papers/Lamproye_JMP.pdf)
 
 ### Working papers
 
-- “Aggregating Markups in Production Networks,” with Emmanuel Dhyne
-- “Market Power and Firm-Level Welfare Impact in Production Networks,” with Emmanuel Dhyne
+- [“Market Power and Firm-Level Welfare Impact in Production Networks”](papers/Lamproye_Dhyne_Welfare_Impact_Networks.pdf), with Emmanuel Dhyne · Forthcoming NBB Working Paper
+- [“Aggregating Markups in Production Networks”](papers/Lamproye_Dhyne_Aggregating_Markups.pdf), with Emmanuel Dhyne · Forthcoming NBB Working Paper
 
-### Under review
+### Revise and resubmit
 
-- “Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions” — revise and resubmit at *Economics of Innovation and New Technology*
+- [“Technological Knowledge Intensity and Intergenerational Mobility across U.S. Regions”](papers/Lamproye_Technological_Knowledge_Mobility.pdf) — revise and resubmit at *Economics of Innovation and New Technology* (linked PDF: submitted version, 31 May 2026)
+
+### Submitted papers
+
 - “Equal Static Gains, Unequal Growth: Trade and the Allocation of R&D” — submitted
 - “When Comparison Makes Markets Tip,” with Duy-Anh Phan — submitted
 
@@ -63,29 +71,23 @@ Expected completion: Summer 2027
 ## Previous research experience
 
 - Research Assistant, ECARES–ULB · 2020–2021
-- Research Assistant, Collège de France · 2019
+- Research Assistant, Collège de France · 2019 · Research on patents and innovation with Prof. Philippe Aghion
 - Economic and Statistical Analyst Trainee, European Commission, DG ECFIN · 2018
 
-## Presentations
+## Selected presentations
 
-### Upcoming
-
-<ul id="upcoming-presentations">
-  <li data-presentation-cutoff="2026-08-15">Osaka Metropolitan University</li>
-  <li data-presentation-cutoff="2026-10-31">Belgian Market Authorities</li>
-</ul>
-
-### Selected past
-
-- Innovation Lab Seminars, Collège de France and INSEAD
-- Macroeconomics Seminar, Paris School of Economics
-- ECARES–ULB Seminar
-- Central European University, Budapest
-- Doctoral Workshop, UCLouvain, UNamur, and Université Saint-Louis Bruxelles
-- National Bank of Belgium
-- KU Leuven
-- Keio University
 - University of Tokyo
+- Osaka Metropolitan University
+- Keio University
+- KU Leuven
+- National Bank of Belgium
+- European Commission, DG Competition
+- Belgian Competition Authority
+- ECARES–ULB Seminar
+- Central European University
+- Paris School of Economics
+- Innovation Lab Seminars, Collège de France and INSEAD
+- Doctoral Workshop, UCLouvain, UNamur, and Université Saint-Louis Bruxelles
 
 ## Teaching
 
@@ -95,7 +97,7 @@ Expected completion: Summer 2027
 
 ## Thesis supervision and examination
 
-- Co-supervisor of 10 master’s theses, with Prof. Johannes Van Biesebroeck as principal supervisor
+- Co-supervisor of 10 completed master’s theses and two ongoing theses (2026–2027), with Prof. Johannes Van Biesebroeck as principal supervisor
 - Examiner and defense-committee member for additional master’s theses
 
 ## Departmental service
@@ -115,28 +117,12 @@ Expected completion: Summer 2027
 
 Native speaker of French and Dutch; fluent in English, Spanish and German.
 
+## Sporting achievements
+
+Belgian national judo champion, −100 kg category (2025); judo black belt (1st DAN).
+
 ## References
 
 - [Prof. Johannes Van Biesebroeck](https://sites.google.com/view/jovb/), KU Leuven · [jo.vanbiesebroeck@kuleuven.be](mailto:jo.vanbiesebroeck@kuleuven.be)
 - [Prof. Jan De Loecker](https://sites.google.com/site/deloeckerjan/), KU Leuven · [jan.deloecker@kuleuven.be](mailto:jan.deloecker@kuleuven.be)
 - [Prof. Emmanuel Dhyne](https://orbi.umons.ac.be/profile?uid=501113), National Bank of Belgium and University of Mons · [emmanuel.dhyne@nbb.be](mailto:emmanuel.dhyne@nbb.be)
-
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  const pastPresentations = document.querySelector("#selected-past ul");
-
-  document.querySelectorAll("#upcoming-presentations [data-presentation-cutoff]").forEach((presentation) => {
-    const cutoff = new Date(`${presentation.dataset.presentationCutoff}T23:59:59`);
-
-    if (new Date() > cutoff && pastPresentations) {
-      presentation.removeAttribute("data-presentation-cutoff");
-      pastPresentations.prepend(presentation);
-    }
-  });
-
-  const upcomingSection = document.querySelector("#upcoming");
-  if (upcomingSection && !upcomingSection.querySelector("li")) {
-    upcomingSection.remove();
-  }
-});
-</script>

@@ -29,7 +29,7 @@ My research lies at the intersection of industrial organization, international t
 
 ::: {.paper-list}
 ::: {.paper-item}
-<span class="status">Working paper</span>
+<span class="status">Forthcoming NBB Working Paper</span>
 
 ### Aggregating Markups in Production Networks
 
@@ -41,7 +41,7 @@ My research lies at the intersection of industrial organization, international t
 :::
 
 ::: {.paper-item}
-<span class="status">Working paper</span>
+<span class="status">Forthcoming NBB Working Paper</span>
 
 ### Market Power and Firm-Level Welfare Impact in Production Networks
 
@@ -64,7 +64,9 @@ My research lies at the intersection of industrial organization, international t
 
 <p class="authors">Sébastien Lamproye</p>
 
-<p class="abstract">This paper studies the regional relationship between technological knowledge intensity and intergenerational upward mobility in the United States. Combining mobility measures from the Opportunity Atlas with U.S. patent records, I document that regions with greater patent-based knowledge intensity exhibit higher upward mobility.</p>
+<p class="abstract">This paper studies the regional relationship between technological knowledge intensity and intergenerational upward mobility in the United States. Combining regional income-mobility estimates with U.S. patent records, I document that regions with greater patent-based knowledge intensity exhibit higher upward mobility.</p>
+
+<div class="paper-links"><a href="papers/Lamproye_Technological_Knowledge_Mobility.pdf">Read paper (PDF)</a><span>Submitted version · 31 May 2026</span></div>
 :::
 
 ::: {.paper-item}
