@@ -51,21 +51,21 @@ My doctoral research is supported by a competitive [PhD Fellowship in Fundamenta
 
 Which firms’ markup changes matter most for aggregate welfare costs? I develop firm-level welfare-incidence measures in a parsimonious model with limited data requirements. Applied to Belgian company accounts, the measures identify influential firms that conventional rankings by sales, markups or profitability can miss.
 
-[Read about the paper →](research.html#job-market-paper){.link-arrow}
-
-[Read paper (PDF)](papers/Lamproye_JMP.pdf){.link-arrow}
+```{=html}
+<div class="paper-actions">
+  <a class="link-arrow" href="papers/Lamproye_JMP.pdf">Read paper (PDF)</a>
+  <a class="link-arrow no-external" href="research.html#jmp-video" target="_self">Watch video (2:19)</a>
+</div>
+```
 :::
 
 ::: {.paper-meta}
-**Fields**  
+**Fields**
 Industrial organization  
 Macroeconomics
 
-**Setting**  
+**Setting**
 Belgian firm-level data, 1985–2024
-
-**Status**  
-Available · Updated {{< var jmp-updated >}}
 :::
 :::
 :::
