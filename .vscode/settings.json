@@ -1,4 +1,5 @@
 {
+  "quarto.path": ".tools/quarto-1.10.20/bin/quarto.exe",
   "workbench.editorAssociations": {
     "*.pdf": "pdf.preview"
   },

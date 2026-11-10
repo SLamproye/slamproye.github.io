@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Website: preview",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}/scripts/website.ps1", "-Action", "preview"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": [],
+      "presentation": {"reveal": "always", "panel": "dedicated"}
+    },
+    {
+      "label": "Website: render",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}/scripts/website.ps1", "-Action", "render"],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": []
+    },
+    {
+      "label": "Website: update JMP",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile", "-ExecutionPolicy", "Bypass", "-File",
+        "${workspaceFolder}/scripts/update-jmp.ps1",
+        "-SourcePath", "${input:jmpSource}",
+        "-VersionDate", "${input:jmpDate}"
+      ],
+      "options": {"cwd": "${workspaceFolder}"},
+      "problemMatcher": [],
+      "presentation": {"reveal": "always", "panel": "dedicated"}
+    }
+  ],
+  "inputs": [
+    {
+      "id": "jmpSource",
+      "type": "promptString",
+      "description": "Full path to the final JMP PDF you want to publish"
+    },
+    {
+      "id": "jmpDate",
+      "type": "promptString",
+      "description": "Date printed on the JMP, in YYYY-MM-DD format (not today's date unless it matches)"
+    }
+  ]
+}

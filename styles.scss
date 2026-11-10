@@ -73,10 +73,11 @@ h3 { font-size: 1.34rem; line-height: 1.28; }
 a { text-underline-offset: .18em; }
 
 .hero {
+  --hero-height: clamp(640px, calc(88vh - 74px), 740px);
   width: 100%;
   max-width: 1440px;
   justify-self: center;
-  height: clamp(640px, calc(88vh - 74px), 740px);
+  height: var(--hero-height);
   display: grid;
   grid-template-columns: minmax(0, 1.3fr) minmax(360px, .7fr);
   align-items: stretch;
@@ -177,6 +178,35 @@ a { text-underline-offset: .18em; }
 
 .hero-visual::after {
   content: none;
+}
+
+// Frame the original suit photograph without generating or retouching pixels.
+// Keep the other person's face beyond the left edge, and crop the lower torso.
+.hero-picture.suit-portrait img {
+  width: 125%;
+  height: 125%;
+  max-width: none;
+  transform: translateX(-15%);
+  object-position: 50% 0%;
+}
+
+// Reversible full-photo trial: remove "uncropped" in index.qmd to compare.
+.hero:has(.hero-picture.uncropped) {
+  height: auto;
+  min-height: var(--hero-height);
+}
+.hero-visual:has(.hero-picture.uncropped) {
+  height: auto;
+  aspect-ratio: 1067 / 1600;
+  align-self: center;
+}
+.hero-picture.suit-portrait.uncropped { background: $paper; }
+.hero-picture.suit-portrait.uncropped img {
+  width: 100%;
+  height: 100%;
+  transform: none;
+  object-fit: contain;
+  object-position: center;
 }
 
 .hero-caption {
@@ -324,8 +354,10 @@ a { text-underline-offset: .18em; }
 
 @media (max-width: 900px) {
   .hero { grid-template-columns: 1fr; height: auto; }
+  .hero:has(.hero-picture.uncropped) { min-height: 0; }
   .hero-copy { width: auto; padding: 4.5rem 1.25rem 3.5rem; }
   .hero-visual { width: 100%; max-width: 560px; height: auto; aspect-ratio: 560 / 650; min-height: 0; justify-self: center; }
+  .hero-visual:has(.hero-picture.uncropped) { aspect-ratio: 1067 / 1600; }
   .section-heading, .paper-feature, .judo-copy { grid-template-columns: 1fr; }
   .paper-meta { border-left: 0; border-top: 1px solid rgba(255,255,255,.25); padding: 1.5rem 0 0; }
   .research-grid, .info-grid { grid-template-columns: 1fr; }
