@@ -8,12 +8,15 @@ project:
     - /cv.qmd
     - /404.qmd
   resources:
+    - /preview/pdf-preview.js
+    - /preview/pdfjs/**
     - /papers/Lamproye_JMP.pdf
     - /papers/Lamproye_Dhyne_Aggregating_Markups.pdf
     - /papers/Lamproye_Dhyne_Welfare_Impact_Networks.pdf
     - /papers/Lamproye_Technological_Knowledge_Mobility.pdf
     - /files/Lamproye_CV.pdf
     - /pictures/portrait_hero.png
+    - /pictures/portrait_suit_original.jpeg
     - /pictures/BK2025_sukuinage.jpeg
     - /pictures/judo_original_hero_crop.png
     - "!/pictures/judogi_pict*.jpeg"
@@ -23,6 +26,8 @@ project:
     - "!/.tools/**"
     - "!/output/**"
     - "!/tmp/**"
+    - "!/scripts/**"
+    - "!/WEBSITE_MAINTENANCE.txt"
 
 website:
   title: "Sébastien Lamproye"
@@ -67,6 +72,7 @@ format:
     smooth-scroll: true
     anchor-sections: false
     link-external-newwindow: true
+    include-after-body: preview/pdf-preview.html
     include-in-header:
       text: |
         <meta name="theme-color" content="#13283f">

@@ -9,6 +9,7 @@ quarto-*-win.zip
 # Private source material (never publish)
 /JM_appl_26-27/
 /drafts/
+/WEBSITE_MAINTENANCE.txt
 /linkedin_website.pdf
 /job_market_cv/
 /PIIRS/
@@ -53,6 +54,7 @@ cv-*.png
 !/pictures/judogi_pict.jpeg
 !/pictures/judogi_pict_2.jpeg
 !/pictures/portrait_hero.png
+!/pictures/portrait_suit_original.jpeg
 !/pictures/judo_original_hero_crop.png
 
 **/*.quarto_ipynb

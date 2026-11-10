@@ -1,2 +1,5 @@
 # Keep downloadable papers byte-identical and out of text diffs.
 *.pdf binary
+
+# Preserve the official third-party PDF reader distribution byte for byte.
+preview/pdfjs/** linguist-vendored -text

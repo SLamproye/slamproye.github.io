@@ -24,8 +24,8 @@ page-layout: full
 :::
 
 ::: {.hero-visual}
-<picture class="hero-picture">
-  <img src="pictures/portrait_hero.png" alt="Portrait of Sébastien Lamproye" width="560" height="650" fetchpriority="high">
+<picture class="hero-picture suit-portrait uncropped">
+  <img src="pictures/portrait_suit_original.jpeg" alt="Portrait of Sébastien Lamproye in a suit" width="1067" height="1600" fetchpriority="high">
 </picture>
 :::
 :::
@@ -65,7 +65,7 @@ Macroeconomics
 Belgian firm-level data, 1985–2024
 
 **Status**  
-Available · Updated 4 November 2026
+Available · Updated {{< var jmp-updated >}}
 :::
 :::
 :::

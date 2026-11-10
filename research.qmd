@@ -21,7 +21,7 @@ My research lies at the intersection of industrial organization, international t
 
 <p class="abstract">Which firms’ markup changes matter most for aggregate welfare costs? I derive marginal and finite measures of firm-level welfare incidence in a parsimonious static model that accounts for fixed-cost recovery. The method uses company accounts and calibrated demand elasticities, without requiring firm-level prices or physical quantities. Belgian company accounts for 1985–2024 reveal highly concentrated effects and firm rankings that differ substantially from those based on sales, markups or profitability. These effects evaluate separate firm-level changes and need not sum to the aggregate welfare cost of markups.</p>
 
-<div class="paper-links"><a href="papers/Lamproye_JMP.pdf">Read paper (PDF)</a><span>Updated 4 November 2026</span></div>
+<div class="paper-links"><a href="papers/Lamproye_JMP.pdf">Read paper (PDF)</a><span>Updated {{< var jmp-updated >}}</span></div>
 :::
 :::
 
